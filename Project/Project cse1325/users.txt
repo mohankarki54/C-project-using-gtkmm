@@ -1,0 +1,3 @@
+first last email username password zipcode
+Mohan Karki mohankarki@gmail.com admin admin 76010
+Noel Tamang noeltamang100@gmail.com noel 1234 77777
